@@ -1,3 +1,5 @@
+![](https://dl.dropboxusercontent.com/u/8677629/preview.png)
+
 gollum -- A wiki built on top of Git
 ====================================
 
